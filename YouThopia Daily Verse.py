@@ -65,7 +65,7 @@ def send_verse(message):
 @bot.message_handler(commands=["ping"])
 def ping(message):
 
-    bot.reply_to(message, "I am alive and Kicking ✔")
+    bot.reply_to(message, "I am Alive and Kicking ✔")
 
 
 print("Bot is running....")
