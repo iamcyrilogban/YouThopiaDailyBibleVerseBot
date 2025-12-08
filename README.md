@@ -1,5 +1,5 @@
 
- YouThopia Daily Bible Verse Bot
+ YouThopia Daily Bible Verse 🎉
 
 A simple Telegram bot that sends daily Bible verses to your group or channel and allows users to request random verses on command. Built with Python, `pyTelegramBotAPI`, and scheduled tasks.
 
@@ -10,6 +10,7 @@ Features
 * Responds to `/verse` command with a random Bible verse.
 * Responds to `/ping` command to confirm the bot is active.
 * Easy to configure with a `.env` file for your bot token.
+* More features will be added soon.🎉
 
 
 Setup
