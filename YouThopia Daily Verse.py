@@ -130,11 +130,9 @@ def send_welcome(message):
     welcome_text = (
         f"👋 *Hi {user_first_name}, Welcome to YouThopia Daily Verse! \n\n I am a Christ-Centered community Bot ✝️* \n\n"
         "I am here to encourage you with God's word every day.\n\n"
-        "✨ *Here is what I can do:*\n"
+        " *Here is what I can do:*\n"
         "Daily Morning Verse (Automatic at 6:00 AM)\n"
-        "/read [Verse] - Read a specific Bible verse (e.g., /read John 3:16)\n"
         "/verse - Get a random encouraging verse right now\n"
-        "/find [topic] - Find verses for emotions (e.g., /find anxiety)\n"
         "/ping - Check if I am online\n\n"
         "📢 *Add me to your Group* to send verses to everyone!"
     )
